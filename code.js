@@ -24,7 +24,7 @@ var questions = [
    "live",
    "hobby",
    "hobbies",
-   "programming lang",
+   "rogramming lang",
    "languages",
    "interests",
    "intrest",
