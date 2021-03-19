@@ -27,7 +27,7 @@ var questions = [
    "rogramming lang",
    "languages",
    "interests",
-   "intrest",
+   "interest",
    "goals",
    "name",
    "age",
