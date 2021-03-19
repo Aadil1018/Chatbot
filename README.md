@@ -8,3 +8,5 @@ who i am , my name , age, qualification
 study, university ,gpa, 
 
 interests, hobbies, goals etc
+
+skills, languages i speak and coding languages
